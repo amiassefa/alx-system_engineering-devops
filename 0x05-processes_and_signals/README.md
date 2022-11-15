@@ -1,1 +1,1 @@
-This alx shell scripting assignments
+This alx shell scripting assignment and projects
