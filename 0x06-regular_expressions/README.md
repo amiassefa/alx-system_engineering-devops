@@ -1,2 +1,1 @@
-### Regular expression
-![shouting](img/shouting.jpg)
+This alx shell scripting assignments
