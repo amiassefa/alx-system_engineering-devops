@@ -1,1 +1,1 @@
-This alx shell scripting assignments
+# 0x06. Regular expression 
